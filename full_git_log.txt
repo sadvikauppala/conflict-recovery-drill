@@ -1,0 +1,37 @@
+COMMIT: ba3ac47a36843f7e11813117ea0c7d07914a1a0e | first commit | sriman | Tue May 12 12:03:09 2026 +0530
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+COMMIT: 0d42bc3e16e4ec5692f9b0382f69b69174a675d0 | docs: add recovery reports and validation test | sriman | Tue May 12 11:57:45 2026 +0530
+ INVESTIGATION_REPORT.md | 28 ++++++++++++++++++++++++++++
+ RECOVERY_WALKTHROUGH.md | 42 ++++++++++++++++++++++++++++++++++++++++++
+ test.js                 | 15 +++++++++++++++
+ 3 files changed, 85 insertions(+)
+
+COMMIT: 1c47c61dee9c07419fbfa8c43621e9285ba3631c | feat: integrate tax calculation logic into stable release | sriman | Tue May 12 11:56:49 2026 +0530
+COMMIT: 6f3eb9be2a724f02021c2b9d70cc2533b46f6230 | feat: integrate global discount logic with rounding fix | sriman | Tue May 12 11:56:35 2026 +0530
+COMMIT: 3f1514d2ea07baca3caa55694364c5de8d2273c5 | feat: implement 5% tax calculation | sriman | Tue May 12 11:55:58 2026 +0530
+ checkout.js | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+COMMIT: 0fbf8d453e96f04eb1449d7f989244fbe3f021e1 | chore: prepare for production | sriman | Tue May 12 11:55:58 2026 +0530
+ api.js | 1 +
+ 1 file changed, 1 insertion(+)
+
+COMMIT: fea73ef10457ad151b018dd62225918079005c43 | feat: implement 10% global discount | sriman | Tue May 12 11:55:58 2026 +0530
+ checkout.js | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+COMMIT: fb7f6b54f01a40622b2c7a6abd2389a4434089be | fix: resolve floating point rounding error | sriman | Tue May 12 11:55:58 2026 +0530
+ checkout.js | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+COMMIT: 677ef5bb1a087fda668ee5660b318b7870dda768 | feat: initial checkout and inventory system | sriman | Tue May 12 11:55:57 2026 +0530
+ checkout.js   |   6 ++++
+ inventory.js  |   6 ++++
+ setup_mess.sh | 114 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 126 insertions(+)
+
+COMMIT: e74e7da0cc9cb38cbc2269793173ab1b9812882b | first commit | sriman | Tue May 12 11:54:31 2026 +0530
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)

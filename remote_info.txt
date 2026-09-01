@@ -1,0 +1,2 @@
+origin	https://github.com/sadvikauppala/conflict-recovery-drill.git (fetch)
+origin	https://github.com/sadvikauppala/conflict-recovery-drill.git (push)

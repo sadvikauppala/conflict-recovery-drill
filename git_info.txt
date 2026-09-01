@@ -1,0 +1,14 @@
+* ba3ac47 (HEAD -> recovery/main-fix, origin/main, origin/HEAD, main) first commit
+* 0d42bc3 docs: add recovery reports and validation test
+*   1c47c61 feat: integrate tax calculation logic into stable release
+|\  
+| * 3f1514d feat: implement 5% tax calculation
+* |   6f3eb9b feat: integrate global discount logic with rounding fix
+|\ \  
+| * | fea73ef feat: implement 10% global discount
+| |/  
+* | 0fbf8d4 chore: prepare for production
+* | fb7f6b5 fix: resolve floating point rounding error
+|/  
+* 677ef5b feat: initial checkout and inventory system
+* e74e7da first commit
